@@ -4,7 +4,7 @@
 ![MATLAB/Simulink](https://img.shields.io/badge/Simulation-MATLAB%20Simulink-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 
-This repository contains the simulation models, theoretical calculations, and performance evaluation reports for starting a three-phase asynchronous motor using a **Thyristor-based Soft Starting System**.
+This repository contains the simulation models, theoretical calculations, and performance evaluation reports for starting a three-phase asynchronous motor using a **Thyristor-based Soft Starting System**
 
 ---
 
