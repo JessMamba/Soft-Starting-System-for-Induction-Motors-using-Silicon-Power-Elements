@@ -10,7 +10,8 @@ This repository contains the simulation models, theoretical calculations, and pe
 
 ## 📌 Project Overview
 
-Asynchronous motors draw high starting currents (several times their nominal rating) during direct-on-line (DOL) startup, which can cause significant voltage drops and affect the stability of the power grid and connected equipment. The objective of this project is to model, analyze, and compare direct-on-line starting versus a thyristor-controlled soft-start method in MATLAB/Simulink to limit initial high currents and control electromagnetic torque spikes.
+Asynchronous motors draw high starting currents (several times their nominal rating) during direct-on-line (DOL) startup, which can cause significant voltage drops and affect the stability of the power grid and connected equipment. The objective of this project is to model, analyze, and compare direct-on-line starting versus a thyristor-controlled soft-start method in MATLAB/Simulink to limit initial high currents and control electromagnetic torque spikes
+
 ---
 
 ## ⚡ System Specifications & Parameters
